@@ -43,6 +43,7 @@ public class TC01_Add_Nationalities
 	}
 	
 	@AfterTest 
+
 	public void  TestCloser()throws Exception {
 		
 		driver.quit();

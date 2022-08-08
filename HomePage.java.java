@@ -29,7 +29,8 @@ public class HomePage
 	
 	
 	public   void Logout() throws Exception
-	 {
+	
+ {
 				welcome1.click();
 				Logout1.click();
 	 }
